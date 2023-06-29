@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    border: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+}
